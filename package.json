@@ -6,8 +6,19 @@
     "test-server": "mocha --colors --watch --recursive './test/**/*.test.js'",
     "test": "mocha --colors --recursive './test/**/*.test.js'"
   },
-  "main": "./src/index.js",
-  "keywords": [],
+  "main": "./src/median.js",
+  "keywords": [
+    "atlassubbed",
+    "math",
+    "stats",
+    "utils",
+    "utility",
+    "arithmetic",
+    "helpers",
+    "statistics",
+    "median",
+    "middle"
+  ],
   "author": "atlassubbed <atlassubbed@gmail.com>",
   "license": "Apache-2.0",
   "devDependencies": {
