@@ -36,7 +36,7 @@ console.log(median([4,3,1,2]))
 
 To avoid sorting a pre-sorted array, use a boolean flag:
 
-```
+```javascript
 ...
 console.log(median([1,2,3,4,5], true)) // fast
 // 3
